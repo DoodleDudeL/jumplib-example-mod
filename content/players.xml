@@ -1,7 +1,10 @@
-<players root="gfx/characters/costumes/" portraitroot="gfx/ui/" nameimageroot="gfx/ui/">
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/character/" nameimageroot="gfx/ui/character/">
     <player 
-        name="Edith (JumpLib)" hp="6" birthright="Salt to pepper"
-        skin="character_004x_edith.png" nameimage="playername_jumplib_edith.png" portrait="playerportrait_jumplib_icarus.png"
+        name="D!Edith" soulhearts="6" birthright="Salt to pepper" skin="character_004x_edith.png"
+        nameimage="playername_jumplib_edith.png" portrait="playerportrait_jumplib_edith.png" noshake="true"
         costumeSuffix="apollyon" skinColor="0" costume="68"
+    />
+    <player 
+        name="D!Edith" achievement="unobtainable" bSkinParent="D!Edith"
     />
 </players>

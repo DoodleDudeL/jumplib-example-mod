@@ -6,7 +6,7 @@ JumpLib:AddCallback(ModCallbacks.MC_PRE_GAME_EXIT, function ()
     storedData = {}
 end)
 
-local EDITH_ID = Isaac.GetPlayerTypeByName("Edith (JumpLib)")
+local EDITH_ID = Isaac.GetPlayerTypeByName("D!Edith")
 
 ---@param entity Entity
 ---@return any
