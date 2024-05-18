@@ -1,0 +1,7 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/" nameimageroot="gfx/ui/">
+    <player 
+        name="Edith (JumpLib)" hp="6" birthright="Salt to pepper"
+        skin="character_004x_edith.png" nameimage="playername_jumplib_edith.png" portrait="playerportrait_jumplib_icarus.png"
+        costumeSuffix="apollyon" skinColor="0" costume="68"
+    />
+</players>
